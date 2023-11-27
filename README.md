@@ -1,5 +1,7 @@
 # Semantic Autoencoder (SemAE)
 
+Reference repository: https://github.com/brcsomnath/SemAE
+
 This repository presents the implementation of the ACL 2022 paper:
 
 > [**Unsupervised Extractive Opinion Summarization Using Sparse Coding**](https://arxiv.org/abs/2203.07921),<br/>
