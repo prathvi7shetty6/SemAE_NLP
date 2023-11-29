@@ -1,0 +1,14 @@
+space_run_noise_10k vs general [dev]
+  ROUGE-1 0.40174 (0.38495 - 0.41752)
+  ROUGE-2 0.10240 (0.08965 - 0.11416)
+  ROUGE-L 0.23722 (0.22528 - 0.24711)
+
+space_run_noise_10k vs general [test]
+  ROUGE-1 0.39166 (0.37539 - 0.40886)
+  ROUGE-2 0.10337 (0.09087 - 0.11696)
+  ROUGE-L 0.22515 (0.21676 - 0.23409)
+
+space_run_noise_10k vs general [all]
+  ROUGE-1 0.39679 (0.38610 - 0.40799)
+  ROUGE-2 0.10286 (0.09421 - 0.11207)
+  ROUGE-L 0.23093 (0.22415 - 0.23838)

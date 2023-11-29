@@ -81,6 +81,14 @@ For aspect opinion summarization, run:
 
 The summarization scripts for SPACE and Amazon are: `scripts/evaluate_*.sh`
 
+### Results
+
+Scores for SPACE data without noise
+![alt text](/images/scores_space.PNG)
+
+Scores for SPACE data with noise
+![alt text](/images/scores_space_noise.PNG)
+
 
 ### Citation
 
